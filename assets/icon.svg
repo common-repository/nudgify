@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111.16 105.83">
+	<defs>
+		<style>
+			.cls-2{fill:#9452ff;}.cls-3{fill:#f6479b;}.cls-4{fill:#ffb600;}.cls-5{fill:#49ddd2;}
+		</style>
+	</defs>
+	<g>
+		<path id="Rectangle_4995" data-name="Rectangle 4995" class="cls-2" d="M-.16,6.5H34.27A13.21,13.21,0,0,1,47.48,19.72h0V54.14H13.06A13.22,13.22,0,0,1-.16,40.92h0Z" transform="translate(0.16 -1.17)"/>
+		<path id="Rectangle_4996" data-name="Rectangle 4996" class="cls-3" d="M73.91,1.17H111V38.26A15.92,15.92,0,0,1,95.12,54.14H58V17.05A15.92,15.92,0,0,1,73.91,1.17Z" transform="translate(0.16 -1.17)"/>
+		<path id="Rectangle_4997" data-name="Rectangle 4997" class="cls-4" d="M58,64.69H89.79a10.51,10.51,0,0,1,10.55,10.46V107H68.69A10.51,10.51,0,0,1,58.14,96.54V64.69Z" transform="translate(0.16 -1.17)"/>
+		<path id="Rectangle_4998" data-name="Rectangle 4998" class="cls-5" d="M18.39,64.69H47.48V93.78a8,8,0,0,1-8,8H10.39V72.68a8,8,0,0,1,8-8Z" transform="translate(0.16 -1.17)"/>
+	</g>
+</svg>
